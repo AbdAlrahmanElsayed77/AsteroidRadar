@@ -1,0 +1,13 @@
+Your API key for abdoe3303@gmail.com is:
+
+JmJIk5PdP3nuhk8re7njPQeUZe5C1hZwyUbHuxE6
+
+You can start using this key to make web service requests. Simply pass your key in the URL when making a web request. Here's an example:
+
+https://api.nasa.gov/planetary/apod?api_key=JmJIk5PdP3nuhk8re7njPQeUZe5C1hZwyUbHuxE6
+
+
+For additional support, please contact us. When contacting us, please tell us what API you're accessing and provide the following account details so we can quickly find you:
+
+Account Email: abdoe3303@gmail.com
+Account ID: 2aea5f65-bda7-4932-b243-051ccb8b4023
